@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**, **R programming**, **Analytics**
 
 - 📫 How to reach me **adityaa2000.m.s@gmail.com**
 
